@@ -1,15 +1,15 @@
-# Olá, eu sou o Erick Archanjo! 👋
+# Hello, I'm Erick Archanjo! 👋
 
 ---
 
-## 🚀 Sobre Mim
-Sou um profissional formado em **Sistemas de Informação** com uma sólida trajetória e experiência na área de Tecnologia da Informação. Meu foco principal está na análise de requisitos, modelagem de sistemas e diagnóstico situacional para a implementação de novas tecnologias, além da padronização e evolução de fluxos operacionais e tecnológicos.
+## 🚀 About Me
+I am an IT professional with a degree in **Information Systems** and a solid background in the technology sector. My primary expertise lies in requirements analysis, systems modeling, and situational diagnosis for new technology implementation, along with the standardization and optimization of operational and technological workflows.
 
-Possuo experiência prática na estruturação e documentação de softwares, elaboração de especificações técnicas, análise de dados operacionais e no mapeamento e redesenho de processos (**AS IS / TO BE**). Busco sempre o ganho de escala, eficiência e melhoria contínua através de metodologias como **Lean, PDCA e BPM**.
+I have practical experience in software structuring, technical documentation, operational data analysis, and business process mapping and redesign (**AS IS / TO BE**). My focus is always on driving efficiency, scalability, and continuous improvement through methodologies like **Lean, PDCA, and BPM**.
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## 💻 Languages and Technologies
 * 🌐 **HTML/CSS**
 * ⚛️ **React Native**
 * 🟨 **JavaScript**
@@ -25,58 +25,58 @@ Possuo experiência prática na estruturação e documentação de softwares, el
 
 ---
 
-## 🎓 Formação & Idiomas
-* **Pós-Graduação (Cursando):** Gestão de Projetos de TI e Metodologias Ágeis – Unifacs (2026)
-* **Graduação:** Bacharelado em Sistemas de Informação – Universidade Dom Pedro II (2017-2021)
-* **Idiomas:** Português (Nativo) | Inglês (Avançado)
+## 🎓 Education & Languages
+* **Postgraduate Degree (In Progress):** IT Project Management and Agile Methodologies – Unifacs (2026)
+* **Bachelor's Degree:** Information Systems – Universidade Dom Pedro II (2017-2021)
+* **Languages:** Portuguese (Native) | English (Advanced)
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-### 💻 Suporte, Sistemas & Infraestrutura
-* **Suporte & Processos:** Suporte Técnico, Help Desk, Service Desk, ITIL e SLAs
-* **Atendimento:** Atendimento ao usuário e suporte ao cliente em níveis N1, N2 e N3
-* **Sistemas Operacionais:** Sólidos conhecimentos em Windows, Linux e macOS
-* **Redes & Conectividade:** Protocolos TCP-IP, DNS, DHCP, VPN e infraestrutura de redes
-* **Ferramentas de Chamados:** Zendesk, Jira e GLPI
-* **Administração de TI:** Active Directory, Office 365, Exchange e ferramentas de monitoramento/backup
-* **Virtualização & Acesso:** VMware, Hyper-V, TeamViewer, AnyDesk e Remote Desktop
+### 💻 Support, Systems & Infrastructure
+* **Support & Frameworks:** Technical Support, Help Desk, Service Desk, ITIL, and SLAs
+* **Customer Care:** End-user assistance and customer support across N1, N2, and N3 levels
+* **Operating Systems:** Advanced proficiency in Windows, Linux, and macOS
+* **Networking & Connectivity:** TCP-IP protocols, DNS, DHCP, VPN, and network infrastructure
+* **Ticketing Tools:** Zendesk, Jira, and GLPI
+* **IT Administration:** Active Directory, Office 365, Exchange, and monitoring/backup tools
+* **Virtualization & Remote Access:** VMware, Hyper-V, TeamViewer, AnyDesk, and Remote Desktop
 
-### ⚙️ Processos, Dados & Engenharia de Software
-* **Análise & Modelagem:** Engenharia de requisitos e modelagem de sistemas complexos
-* **Gestão de Software:** Documentação técnica detalhada e gestão do ciclo de vida de softwares
-* **Cloud Computing:** Vivência e administração de serviços AWS, Azure e Google Workspace
-* **Automação & Banco de Dados:** Criação de scripts em PowerShell e Bash, além de manipulação de Banco de Dados (SQL)
-* **Desenvolvimento Front-End:** Criação e manutenção de páginas estruturadas em WordPress e tecnologias web
-
----
-
-## 💼 Experiência Profissional
-* **Analista de Processos de TI** | EBAC (2025 - Atual)
-* **Analista de Suporte Técnico I** | Bomconsórcio Fintech (2024 - 2025)
-* **Técnico em Suporte** | Bomconsórcio Fintech (2022 - 2024)
+### ⚙️ Processes, Data & Software Engineering
+* **Analysis & Modeling:** Requirements engineering and complex systems modeling
+* **Software Management:** High-quality technical documentation and software lifecycle management
+* **Cloud Computing:** Hands-on administration of AWS, Azure, and Google Workspace environments
+* **Automation & Databases:** Scripting in PowerShell and Bash, along with foundational Database management (SQL)
+* **Front-End Development:** Page creation and maintenance using WordPress and web technologies
 
 ---
 
-## 📜 Cursos & Certificações
+## 💼 Professional Experience
+* **IT Process Analyst** | EBAC (2025 - Present)
+* **Technical Support Analyst I** | Bomconsórcio Fintech (2024 - 2025)
+* **Support Technician** | Bomconsórcio Fintech (2022 - 2024)
+
+---
+
+## 📜 Courses & Certifications
 <details>
-<summary><b>Clique para expandir a lista de cursos</b></summary>
+<summary><b>Click to expand the course list</b></summary>
 
-* Jornada Inteligência Artificial – Hashtag (2025)
-* Formação UX: Entenda a Experiência de Usuário – Alura (2022)
-* Formação HTML5 e CSS3 (Partes 1 a 4) – Alura (2022)
-* Arquitetura CSS: Descomplicando os problemas – Alura (2022)
-* JavaScript: Orientação a Objetos, Interfaces e Herança – Alura (2022)
-* Formação Redes (Partes 1 a 3): Conceitos, Projetos e Políticas de Acesso – Alura (2022-2023)
-* Linux I: Conhecendo e Utilizando o Terminal – Alura (2022)
-* SEO: Otimização de Sites – Alura (2023)
-* Excel do Básico ao Avançado – SENAC (2023)
-* Fundamentos de Governança de TI – Bradesco (2021)
+* Artificial Intelligence Journey – Hashtag (2025)
+* UX: Understanding User Experience – Alura (2022)
+* HTML5 and CSS3 Bootcamp (Parts 1 to 4) – Alura (2022)
+* CSS Architecture: Decomposing the Problems – Alura (2022)
+* JavaScript: Object-Oriented Programming, Interfaces, and Inheritance – Alura (2022)
+* Networking Program (Parts 1 to 3): Concepts, Projects, and Access Policies – Alura (2022-2023)
+* Linux I: Knowing and Using the Terminal – Alura (2022)
+* SEO: Website Optimization – Alura (2023)
+* Excel from Basic to Advanced – SENAC (2023)
+* IT Governance Fundamentals – Bradesco (2021)
 </details>
 
 ---
 
-## ✉️ Vamos nos conectar?
+## ✉️ Let's connect!
 * **LinkedIn:** [in/erick-archanjo](https://www.linkedin.com/in/erick-archanjo)
-* **E-mail:** [erick-archanjo@hotmail.com](mailto:erick-archanjo@hotmail.com)
+* **Email:** [erick-archanjo@hotmail.com](mailto:erick-archanjo@hotmail.com)
