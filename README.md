@@ -9,6 +9,22 @@ Possuo experiência prática na estruturação e documentação de softwares, el
 
 ---
 
+## 💻 Linguagens e Tecnologias
+* 🌐 **HTML/CSS**
+* ⚛️ **React Native**
+* 🟨 **JavaScript**
+* 🐙 **Git**
+* 🐬 **MySQL**
+* 🐍 **Python**
+* 💜 **Bootstrap**
+* 📋 **Jira**
+* 🧪 **Cypress**
+* 🚀 **Postman**
+* 🎨 **Figma**
+* 🐘 **PHP**
+
+---
+
 ## 🎓 Formação & Idiomas
 * **Pós-Graduação (Cursando):** Gestão de Projetos de TI e Metodologias Ágeis – Unifacs (2026)
 * **Graduação:** Bacharelado em Sistemas de Informação – Universidade Dom Pedro II (2017-2021)
@@ -64,5 +80,3 @@ Possuo experiência prática na estruturação e documentação de softwares, el
 ## ✉️ Vamos nos conectar?
 * **LinkedIn:** [in/erick-archanjo](https://www.linkedin.com/in/erick-archanjo)
 * **E-mail:** [erick-archanjo@hotmail.com](mailto:erick-archanjo@hotmail.com)
-* **Telefone/WhatsApp:** (71) 98629-4176
-* **Localização:** Lauro de Freitas - BA
