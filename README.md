@@ -10,18 +10,10 @@ I have practical experience in software structuring, technical documentation, op
 ---
 
 ## 💻 Languages and Technologies
-* 🌐 **HTML/CSS**
-* ⚛️ **React Native**
-* 🟨 **JavaScript**
-* 🐙 **Git**
-* 🐬 **MySQL**
-* 🐍 **Python**
-* 💜 **Bootstrap**
-* 📋 **Jira**
-* 🧪 **Cypress**
-* 🚀 **Postman**
-* 🎨 **Figma**
-* 🐘 **PHP**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height: 80px; width: 80px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 80px; width: 80px"/>
+  
+  
 
 ---
 
